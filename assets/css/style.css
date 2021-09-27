@@ -2872,10 +2872,10 @@ div[class*="position"] .details .area {
 }
 .play-card {
   -ms-flex: 0 0 20%;
-  flex: 0 0 20%;
-  max-width: 20%;
+  flex: 0 0 61%;;
+  
   position: relative;
-  padding: 0 4px;
+  padding: 0 3px;
 }
 .close-play-card {
   position: absolute;
@@ -3346,7 +3346,7 @@ div[class*="position"] .details .area {
   width: 100%;
 }
 .post-item .content {
-  padding: 30px 30px;
+  padding: 15px 15px;
 }
 .post-title a {
   font-weight: 500;
